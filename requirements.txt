@@ -1,7 +1,7 @@
 nose
 sphinx
 urllib==0.1.2
-Django==1.8.2
+Django==1.2.7
 gunicorn==19.3.0
 simplejson==3.7.3
 django-admin-bootstrapped==2.5.4
